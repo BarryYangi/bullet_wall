@@ -11,3 +11,6 @@
 1. clone本仓库到本地。
 2. 仓库根目录运行`npm i`
 3. `npm start`
+
+### 演示
+![弹幕墙](https://easyimage.smitten.top/i/2023/04/10/hfkiyq-0.webp)
