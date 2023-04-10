@@ -7,6 +7,6 @@
 - 每个功能为一个单独的react模块,利用react-router-dom库实现路由跳转。
 
 ### 使用方法
-1.clone本仓库到本地。
-2.仓库根目录运行`npm i`
-3.`npm start`
+1. clone本仓库到本地。
+2. 仓库根目录运行`npm i`
+3. `npm start`
